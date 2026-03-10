@@ -1,4 +1,4 @@
-(ns panderson.core)
+(ns panderson.hello)
 
 (defn greet [name]
   (str "Hello, " name "!"))
